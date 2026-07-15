@@ -6,7 +6,7 @@ import Pagination from './components/Pagination';
 import Footer from './components/Footer';
 
 // Import data dummy dari folder data
-import { dummyVenues } from './data/venues';
+import { dummyVenues } from './data/Venues';
 
 function App() {
   return (
